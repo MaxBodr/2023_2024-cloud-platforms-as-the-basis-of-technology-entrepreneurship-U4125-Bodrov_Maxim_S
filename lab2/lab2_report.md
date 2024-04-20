@@ -24,6 +24,7 @@ Date of finished: --.04.2024
 ![image](https://github.com/MaxBodr/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-Bodrov_Maxim_S/assets/125296807/d203c423-11b2-4f78-a550-4d815d91ce2f)
 
 В метриках так же можем заметить засечки когда мы деплоим новую версию или меняем трафик с одной версии на другую
-![image](https://github.com/MaxBodr/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-Bodrov_Maxim_S/assets/125296807/76313202-751d-4000-af16-1108a0a77860)
+![image](https://github.com/MaxBodr/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-Bodrov_Maxim_S/assets/125296807/e6a5f86c-521b-4d24-beb9-09a9f44eec1b)
+
 
 Таким образом, в Cloud Run можно быстро запустить свой сайт на облачных мощнастях и просто отслеживать нагрузки на сайт. Так же можно отслеживать логи в случаях ошибок
