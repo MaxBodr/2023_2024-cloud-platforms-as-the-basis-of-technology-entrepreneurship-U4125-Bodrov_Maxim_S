@@ -7,7 +7,7 @@ Lab: Lab3 \
 Date of create: 26.04.2024 \
 Date of finished: --.04.2024
 
-Отчет по лабораторной работе №3
+Отчет по лабораторной работе №4\
 Схема:\
 ![image](https://github.com/MaxBodr/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-Bodrov_Maxim_S/assets/125296807/beaa5979-02e7-4934-a296-1be6070adb1d)
 
